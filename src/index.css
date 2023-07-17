@@ -77,6 +77,10 @@ code {
   color: #fa4529;
 }
 
+.header .active {
+  color: #fa4529;
+}
+
 .content{
   min-height: 400px;
 }
