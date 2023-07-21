@@ -114,7 +114,7 @@ code {
   font-weight: lighter;
 }
 
-.home a{
+.home .title a{
   background-color: #fa4529;
   color: white;
   padding:7px ;
@@ -124,7 +124,7 @@ code {
   display:flexbox;
 }
 
-.home a:hover,
+.home .title a:hover,
 input[type="submit"]:hover,
 button:hover{
   background-color: rgb(26, 137, 26);
